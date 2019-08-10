@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Frame-Options: DENY
+Cache-Control: no-store
+X-Content-Type-Options: nosniff
+Set-Cookie: INSEE=1880501002.58148.0000;secure; expires=Sat, 07-Sep-2019 20:00:44 GMT; path=/, pdapimgateway=1830169354.22560.0000;secure; expires=Sat, 07-Sep-2019 20:00:44 GMT; path=/
+Pragma: no-cache
+X-XSS-Protection: 1; mode=block
+Content-Type: application/json
+Date: Sat, 07 Sep 2019 19:40:44 GMT
+Transfer-Encoding: chunked
+Strict-Transport-Security: max-age=100000; includeSubDomains
+
+{"access_token":"c07702ad-599c-3271-b3b0-33af71de4ff0","scope":"am_application_scope default","token_type":"Bearer","expires_in":594029}

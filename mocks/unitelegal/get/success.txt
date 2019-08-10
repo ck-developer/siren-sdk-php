@@ -1,0 +1,16 @@
+HTTP/1.1 200 
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Set-Cookie: INSEE=1644702474.20480.0000;secure; expires=Fri, 23-Aug-2019 09:48:30 GMT; path=/
+Vary: Accept-Encoding
+Expires: Thu, 01 Jan 1970 01:00:00 GMT
+Access-Control-Allow-Headers: authorization,Access-Control-Allow-Origin,Content-Type,SOAPAction
+Content-Type: application/json;charset=utf-8
+Date: Fri, 23 Aug 2019 09:28:30 GMT
+Transfer-Encoding: chunked
+Set-Cookie: pdapimgateway=1846946570.22560.0000;secure; expires=Fri, 23-Aug-2019 09:48:30 GMT; path=/
+Strict-Transport-Security: max-age=100000; includeSubDomains
+
+{"header":{"statut":200,"message":"OK"},"uniteLegale":{"siren":"849967211","statutDiffusionUniteLegale":"O","dateCreationUniteLegale":"2019-04-10","sigleUniteLegale":null,"sexeUniteLegale":"M","prenom1UniteLegale":"CLAUDE","prenom2UniteLegale":null,"prenom3UniteLegale":null,"prenom4UniteLegale":null,"prenomUsuelUniteLegale":"CLAUDE","pseudonymeUniteLegale":null,"identifiantAssociationUniteLegale":null,"trancheEffectifsUniteLegale":null,"anneeEffectifsUniteLegale":null,"dateDernierTraitementUniteLegale":"2019-04-12T04:03:46","nombrePeriodesUniteLegale":1,"categorieEntreprise":null,"anneeCategorieEntreprise":null,"periodesUniteLegale":[{"dateFin":null,"dateDebut":"2019-04-10","etatAdministratifUniteLegale":"A","changementEtatAdministratifUniteLegale":false,"nomUniteLegale":"KHEDHIRI","changementNomUniteLegale":false,"nomUsageUniteLegale":null,"changementNomUsageUniteLegale":false,"denominationUniteLegale":null,"changementDenominationUniteLegale":false,"denominationUsuelle1UniteLegale":null,"denominationUsuelle2UniteLegale":null,"denominationUsuelle3UniteLegale":null,"changementDenominationUsuelleUniteLegale":false,"categorieJuridiqueUniteLegale":"1000","changementCategorieJuridiqueUniteLegale":false,"activitePrincipaleUniteLegale":"62.01Z","nomenclatureActivitePrincipaleUniteLegale":"NAFRev2","changementActivitePrincipaleUniteLegale":false,"nicSiegeUniteLegale":"00012","changementNicSiegeUniteLegale":false,"economieSocialeSolidaireUniteLegale":null,"changementEconomieSocialeSolidaireUniteLegale":false,"caractereEmployeurUniteLegale":"N","changementCaractereEmployeurUniteLegale":false}]}}
